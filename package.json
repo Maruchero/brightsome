@@ -1,0 +1,18 @@
+{
+  "name": "brightsome",
+  "version": "0.1.0",
+  "description": "A lightweight CSS library implementing neumorphic design",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node builder.js"
+  },
+  "keywords": ["brightsome", "css", "js", "neumorphism", "library"],
+  "author": "Maruchero",
+  "license": "MIT",
+  "dependencies": {
+    "g": "^2.0.1",
+    "glob": "^8.1.0",
+    "sass": "^1.58.3"
+  }
+}
