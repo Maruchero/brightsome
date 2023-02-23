@@ -1,4 +1,5 @@
-![](img/brightsome_logo.jpg)
+![](img/brightsome_logo.jpg#gh-light-mode-only)
+![](img/brightsome_logo_dark.jpg#gh-dark-mode-only)
 
 Brightsome is a lightweight CSS and JS library to develop cool and modern designs in web pages quickly and easily.
 
